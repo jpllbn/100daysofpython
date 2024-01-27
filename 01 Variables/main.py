@@ -1,6 +1,6 @@
-# What is a Variables?
+# What is a 01 Variables?
 
-# Variables is used to store data.
+# 01 Variables is used to store data.
 
 # A variable give a name to a piece of data.
 # Like a box with a label, it tells you what's
